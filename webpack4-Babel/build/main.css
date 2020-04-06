@@ -1,0 +1,18 @@
+div{
+    width: 400px;
+    height: 400px;
+    background-color: cadetblue;
+}
+body{
+    background-color: brown;
+    height: 100vh;
+    width: 100Vw;
+}
+.pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    justify-items: start;
+    -moz-column-count: 3;
+         column-count: 3;
+}
